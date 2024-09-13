@@ -18,7 +18,7 @@ The challenge is designed for individuals to become more familiar with the digit
 <h2 id="schedule">Schedule:</h2>
 The challenge will run alongside LEADR10 from September 3, 2024, until April 9, 2025. Winners will be selected at the closing event of the year. We encourage you to join this challenge! We will also run a few dedicated workshops on how to use both SketchUp and the 3D printers you see in the main lab area. 
 
-<h2 id=evaulation">Evaluation:</h2>
+<h2 id="evaluation">Evaluation:</h2>
 
 Evaluation will be based on three things:
 1.	Process 
