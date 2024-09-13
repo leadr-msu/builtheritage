@@ -4,11 +4,11 @@
 
 Sign up here: https://forms.gle/F3jo9cMWP8M9YSmS9 
 
-## Challenge:
+<h2 id="challenge">Challenge:</h2>
 
 Your task as part of LEADR10 is to build and 3D print a UNESCO World Heritage site. Using SketchUp and any of the 3D printers in the lab, we challenge you to create a 3D model of one of the sites in this list: https://whc.unesco.org/en/list/ . 
 
-## Guidelines:
+<h2 id="guidleines">Guidelines:</h2>
 
 The challenge is designed for individuals to become more familiar with the digital methods and tools involved in public history and digital heritage. The outcomes for the challenge must include:
 
@@ -16,10 +16,10 @@ The challenge is designed for individuals to become more familiar with the digit
 2.	A 3D print of your UNESCO site.
 3.	An explanation for why you chose that site and its importance.
 
-## Schedule:
+<h2 id="schedule">Schedule:</h2>
 The challenge will run alongside LEADR10 from September 3, 2024, until April 9, 2025. Winners will be selected at the closing event of the year. We encourage you to join this challenge! We will also run a few dedicated workshops on how to use both SketchUp and the 3D printers you see in the main lab area. 
 
-## Evaluation:
+<h2 id=evaulation">Evaluation:</h2>
 
 Evaluation will be based on three things:
 1.	Process 
@@ -27,7 +27,7 @@ Evaluation will be based on three things:
 3.	Quality
 4.	Explanation
 
-## FAQ:
+<h2 id="faq">FAQ:</h2>
 
 1.	Who can take part in the challenge?
 Anyone can take part in the challenge whether that be faculty, grad students, or undergrad students.
