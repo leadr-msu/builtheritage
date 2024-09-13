@@ -1,5 +1,4 @@
 # Built Heritage Challenge 
-
 3D printing or “additive manufacturing” has fast become an important method of research visualization. Here in LEADR, we have 3 different types of 3D printers (MakerBot Z18, Ultimaker Extended 2+ and PRUSA mini) and a total of 4 printers in the main lab space. Historians and Anthropologists have manufactured visual representations of their research whether that be a 3D terrain map representing a specific area, a historical object, or heritage buildings and objects to create effective arguments that explain phenomena.
 
 Sign up here: https://forms.gle/F3jo9cMWP8M9YSmS9 
