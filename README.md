@@ -6,3 +6,6 @@
 <p></p>Your task as part of LEADR10 is to build and 3D print a UNESCO World Heritage site. Using SketchUp and any of the 3D printers in the lab, we challenge you to create a 3D model of one of the sites in this list: https://whc.unesco.org/en/list/ .</p>
 
 Find all of our tutorials at [http://leadr-msu.github.io/](http://leadr-msu.github.io/). 
+
+
+![Built-Heritage](https://github.com/user-attachments/assets/f23a5a3a-3965-4ea2-9cfc-b59064e403a0)
