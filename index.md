@@ -20,7 +20,7 @@ The challenge will run alongside LEADR10 from September 3, 2024, until April 9, 
 
 <h2 id="evaluation">Evaluation:</h2>
 
-Evaluation will be based on three things:
+Evaluation will be based on four things:
 1.	Process 
 2.	Design
 3.	Quality
