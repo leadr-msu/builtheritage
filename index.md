@@ -41,4 +41,7 @@ The print itself can be as big as you want it to be. It needs to be big enough t
 In the main LEADR lab. We have four printers available. Please do bear in mind that printing takes quite a long time and you will need to plan ahead for this. 
 
 5.	Will there be guidance for beginners who have never used the tools?
-Yes! There will be dedicated workshops on how to use the tools. 
+Yes! There will be dedicated workshops on how to use the tools.
+
+6. If I find an stl file of my site online already can I use that?
+No, you can use measurements or guidelines but you cannot reproduce a model that has already been created. You have to build the 3D model yourself in SketchUp.
